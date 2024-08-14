@@ -39,6 +39,6 @@ while(rowStart<=rowEnd && colStart<=colEnd){
     }
     colStart++;
 }
-
+System.out.println("Spiral traversal is done");
 }
 }
