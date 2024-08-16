@@ -11,6 +11,7 @@ public class transpose {
                 matrix[i][j]=sc.nextInt();
             }
 }
+System.out.println("Transpose of matrix is: ");
 for(int i=0;i<n;i++){
     for(int j=0;j<m;j++){
         
